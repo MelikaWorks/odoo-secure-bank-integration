@@ -30,7 +30,7 @@ flowchart LR
     B -.->|Token-based Authentication| C
     B -.->|Certificate / TLS Security| C
 
-
+```
 ---
 
 ## Key Responsibilities
