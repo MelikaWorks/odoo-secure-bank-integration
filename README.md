@@ -35,53 +35,53 @@ flowchart LR
 
 ## Key Responsibilities
 
-Architecture design for secure banking integration within Odoo.
+- Architecture design for secure banking integration within Odoo.
 
-Implementation of a provider-agnostic gateway layer.
+- Implementation of a provider-agnostic gateway layer.
 
-SOAP-based communication for transaction status inquiry.
+- SOAP-based communication for transaction status inquiry.
 
-Token-based authentication mechanisms.
+- Token-based authentication mechanisms.
 
-Certificate-based secure communication (TLS).
+- Certificate-based secure communication (TLS).
 
-Secure handling of sensitive credentials and cryptographic keys.
+- Secure handling of sensitive credentials and cryptographic keys.
 
-Error handling, logging, and reconciliation flow design.
+- Error handling, logging, and reconciliation flow design.
 
-Compliance with enterprise banking security requirements.
+- Compliance with enterprise banking security requirements.
 
 ---
 
 ## Technologies
 
-Odoo ERP (Python)
+- Odoo ERP (Python)
 
-SOAP Web Services
+- SOAP Web Services
 
-Token-based Authentication
+- Token-based Authentication
 
-Certificate-based TLS Security
+- Certificate-based TLS Security
 
-PostgreSQL
+- PostgreSQL
 
 ---
 
 ## Security & Confidentiality Notice
 
-This repository intentionally excludes:
+- This repository intentionally excludes:
 
-Bank names
+- Bank names
 
-Service endpoints
+- Service endpoints
 
-Credentials and access tokens
+- Credentials and access tokens
 
-Cryptographic keys and certificates
+- Cryptographic keys and certificates
 
-Source code and configuration files
+- Source code and configuration files
 
-The full implementation remains private in accordance with security policies and non-disclosure agreements (NDA).
+- The full implementation remains private in accordance with security policies and non-disclosure agreements (NDA).
 
 ---
 
