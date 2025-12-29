@@ -34,23 +34,34 @@ flowchart LR
 
 ## Key Responsibilities
 
-Architecture design for secure banking integration within Odoo
-Implementation of a provider-agnostic gateway layer
-SOAP-based communication for transaction status inquiry
-Token-based authentication mechanisms
-Certificate-based secure communication (TLS)
-Secure handling of sensitive credentials and keys
-Error handling, logging, and reconciliation flow design
-Compliance with enterprise banking security requirements
+Architecture design for secure banking integration within Odoo.
+
+Implementation of a provider-agnostic gateway layer.
+
+SOAP-based communication for transaction status inquiry.
+
+Token-based authentication mechanisms.
+
+Certificate-based secure communication (TLS).
+
+Secure handling of sensitive credentials and cryptographic keys.
+
+Error handling, logging, and reconciliation flow design.
+
+Compliance with enterprise banking security requirements.
 
 ---
 
 ## Technologies
 
 Odoo ERP (Python)
+
 SOAP Web Services
+
 Token-based Authentication
+
 Certificate-based TLS Security
+
 PostgreSQL
 
 ---
@@ -60,10 +71,15 @@ PostgreSQL
 This repository intentionally excludes:
 
 Bank names
+
 Service endpoints
+
 Credentials and access tokens
+
 Cryptographic keys and certificates
+
 Source code and configuration files
+
 The full implementation remains private in accordance with security policies and non-disclosure agreements (NDA).
 
 ---
@@ -72,8 +88,16 @@ The full implementation remains private in accordance with security policies and
 
 The complete implementation details, architectural decisions, and security considerations can be discussed during technical interviews.
 
-- Commit message:
-Add high-level documentation for secure Odoo banking integration
+---
+
+## 📢 Author
+
+👩‍💻 **Melika Mehranpour**  
+Full Stack .NET Developer | ERP & Odoo Integrations | Agile & Scrum 
+
+🔗 **LinkedIn:** https://www.linkedin.com/in/USERNAME  
+🔗 **GitHub:** https://github.com/USERNAME  
+🔗 **Portfolio:** https://your-portfolio-link.com
 
 
 
