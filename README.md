@@ -30,6 +30,7 @@ flowchart LR
     B -.->|Token-based Authentication| C
     B -.->|Certificate / TLS Security| C
 
+
 ---
 
 ## Key Responsibilities
@@ -95,9 +96,7 @@ The complete implementation details, architectural decisions, and security consi
 👩‍💻 **Melika Mehranpour**  
 Full Stack .NET Developer | ERP & Odoo Integrations | Agile & Scrum 
 
-🔗 **LinkedIn:** https://www.linkedin.com/in/USERNAME  
-🔗 **GitHub:** https://github.com/USERNAME  
-🔗 **Portfolio:** https://your-portfolio-link.com
+🔗 [LinkedIn](https://www.linkedin.com/in/melika-mehranpour-41b627161/) | [GitHub](https://github.com/MelikaWorks) | [Portfolio](https://github.com/MelikaWorks/Portfolio)
 
 
 
